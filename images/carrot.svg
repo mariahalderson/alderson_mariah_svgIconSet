@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="carrot_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 116.7 124.9" style="enable-background:new 0 0 116.7 124.9;" xml:space="preserve">
+	 viewBox="0 0 46.7 124.9" style="enable-background:new 0 0 46.7 124.9;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FF7415;stroke:#82360B;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{fill:#123F11;stroke:#060F00;stroke-width:0.5;stroke-miterlimit:10;}
@@ -9,19 +9,19 @@
 </style>
 <g id="carrot">
 	<g id="main-carrot">
-		<path id="body" class="st0" d="M40.7,54.7c0,0-8,3-4,15c0,0-2,8-1,10s4,6,4,9s0,4,1,10s11,23,11,23s7-23,5-27s1-12-1-18s-2-9-2-9
-			S58.7,48.7,40.7,54.7z"/>
-		<path id="leaf_1_" class="st1" d="M49.7,3.7c0,0-7,7-8,11s0-6,0-6s-3,6-3,12s-2-5-2-5s-2,8,0,14s0,22,4,25c0,0-2-12-2-19s7-8,7-11
-			c0,0-1,0-3,1s7-4,7-7c0,0,0,3-3,3S49.7,3.7,49.7,3.7z"/>
-		<path id="leaf" class="st1" d="M61.3,26.6c0,0-6.2,2.3-7.9,4.4s1.7-3.6,1.7-3.6s-3.5,2.8-5.1,6.4c-1.7,3.6,0.2-3.6,0.2-3.6
+		<path id="body" class="st0" d="M15.7,54.7c0,0-8,3-4,15c0,0-2,8-1,10s4,6,4,9s0,4,1,10s11,23,11,23s7-23,5-27s1-12-1-18s-2-9-2-9
+			S33.7,48.7,15.7,54.7z"/>
+		<path id="leaf_1_" class="st1" d="M24.7,3.7c0,0-7,7-8,11s0-6,0-6s-3,6-3,12s-2-5-2-5s-2,8,0,14s0,22,4,25c0,0-2-12-2-19s7-8,7-11
+			c0,0-1,0-3,1s7-4,7-7c0,0,0,3-3,3S24.7,3.7,24.7,3.7z"/>
+		<path id="leaf" class="st1" d="M36.3,26.6c0,0-6.2,2.3-7.9,4.4s1.7-3.6,1.7-3.6s-3.5,2.8-5.1,6.4c-1.7,3.6,0.2-3.6,0.2-3.6
 			s-3.4,4.3-3.9,8.4c-0.5,4.2-6.1,13.3-4.5,16.2c0,0,2.1-7.8,4-12s6.4-2.9,7.3-4.7c0,0-0.6-0.3-2.1-0.2s5.3-0.5,6.2-2.3
-			c0,0-0.8,1.8-2.6,1C52.7,35.8,61.3,26.6,61.3,26.6z"/>
+			c0,0-0.8,1.8-2.6,1C27.7,35.8,36.3,26.6,36.3,26.6z"/>
 	</g>
 </g>
 <g id="detail">
-	<path class="st2" d="M38.5,69.5c0,0,7.7,3.9,11.2,0.3"/>
-	<path class="st2" d="M40.5,80.5c0,0,7.7,3.9,11.2,0.3"/>
-	<path class="st2" d="M42.5,93.5c0,0,7.7,3.9,11.2,0.3"/>
-	<path class="st2" d="M45.7,103.7c0,0,5.1,2.6,7.5,0.2"/>
+	<path class="st2" d="M13.5,69.5c0,0,7.7,3.9,11.2,0.3"/>
+	<path class="st2" d="M15.5,80.5c0,0,7.7,3.9,11.2,0.3"/>
+	<path class="st2" d="M17.5,93.5c0,0,7.7,3.9,11.2,0.3"/>
+	<path class="st2" d="M20.7,103.7c0,0,5.1,2.6,7.5,0.2"/>
 </g>
 </svg>
