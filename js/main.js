@@ -10,12 +10,12 @@
 
 	//zoom in 1.5x on mouseover 
 	function zoom(){
-		document.getElementById(this.id).classList.add('zoom');
+		document.querySelector(`#${this.id}`).classList.add('zoom');
 	}
 
 	//return to normal zoom on mouseout
 	function removeZoom(){
-		document.getElementById(this.id).classList.remove('zoom');
+		document.querySelector(`#${this.id}`).classList.remove('zoom');
 	}
 
 

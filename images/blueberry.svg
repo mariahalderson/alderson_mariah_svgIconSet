@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="blueberry_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 116.7 124.9" style="enable-background:new 0 0 116.7 124.9;" xml:space="preserve">
+	 y="0px" viewBox="0 0 46.7 47.9" style="enable-background:new 0 0 46.7 47.9;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#010035;stroke:#070011;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{fill:#090011;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
 </style>
 <g id="main-blueberry">
-	<circle id="berry" class="st0" cx="44.7" cy="68.7" r="15"/>
+	<circle id="berry" class="st0" cx="24.7" cy="26.7" r="15"/>
 </g>
 <g id="detail-blueberry">
-	<path id="top" class="st1" d="M37.7,54.7c0,0,2,2,2,3s0,4,2,4s3-1,5-1s3,0,3-1s-1-1,1-2s2,0,2-1S52,54,49.4,54.4
-		S45.7,52.7,37.7,54.7z"/>
-	<path id="stem-blueberry" class="st2" d="M44.7,56.7c0,0,0-8,2-9"/>
+	<path id="top" class="st1" d="M17.7,12.7c0,0,2,2,2,3s0,4,2,4s3-1,5-1s3,0,3-1s-1-1,1-2s2,0,2-1S32,12,29.4,12.4
+		S25.7,10.7,17.7,12.7z"/>
+	<path id="stem-blueberry" class="st2" d="M24.7,14.7c0,0,0-8,2-9"/>
 </g>
 </svg>
